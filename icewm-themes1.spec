@@ -1,15 +1,16 @@
-Summary:        Pack of themes for icewm
+Summary:	Pack of themes for icewm
 Summary(pl):	Zestaw tematów dla icewm
 Name:		icewm-themes-pack1
 Version:	1.0
 Release:	1
 License:	GPL (?)
 Group:		Themes
-Group(pl):	Tematy
+Group(de):	Themen
+Group(pl):	Motywy
 Source0:	%{name}.tar.gz
 
 Requires:	icewm
-Buildroot:      %{tmpdir}/%{name}-root-%(id -u -n)
+Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_themesdir	/usr/X11R6/lib/X11/icewm/themes
 
