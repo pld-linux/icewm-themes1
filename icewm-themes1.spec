@@ -44,7 +44,7 @@ This is a set of 25 themes for IceWM. Themes authors:
 
 %description -l pl
 Jest to zestaw 25 motywów do uprzyjemnienia wygl±du twojego IceWM-a.
-Autorzy poszczególnytch motywów:
+Autorzy poszczególnych motywów:
 - 4Dwm Theme v.2 - Jeremiah Cornelius <jcorneli@rocketmail.com>
 - Absolute_I - Taner Tas <terranigma@pmail.net>
 - The Alien race - Mike Wynn <Mike.Wynn@alien-race.freeserve.co.uk>
