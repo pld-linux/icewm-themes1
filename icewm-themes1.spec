@@ -77,13 +77,13 @@ Autorzy poszczególnytch tematów:
 %build
 
 %install
-%{__rm} -rf $RPM_BUILD_ROOT
-%{__install} -d $RPM_BUILD_ROOT%{_themesdir}
+rm -rf $RPM_BUILD_ROOT
+install -d $RPM_BUILD_ROOT%{_themesdir}
 
-%{__cp} -R * $RPM_BUILD_ROOT%{_themesdir}
+cp -R * $RPM_BUILD_ROOT%{_themesdir}
 
 %clean
-%{__rm} -rf $RPM_BUILD_ROOT
+rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
