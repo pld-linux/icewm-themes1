@@ -1,5 +1,5 @@
 Summary:	Pack of themes for IceWM
-Summary(pl):	Zestaw tematów dla IceWM-a
+Summary(pl):	Zestaw motywów dla IceWM-a
 Name:		icewm-themes-pack1
 Version:	1.0
 Release:	3
@@ -41,8 +41,8 @@ This is a set of 25 themes for IceWM. Themes authors:
 - REI - Josef 'Jupp' Schugt <jupp@gmx.de>
 
 %description -l pl
-Jest to zestaw 25 tematów do uprzyjemnienia wygl±du twojego IceWM-a.
-Autorzy poszczególnytch tematów:
+Jest to zestaw 25 motywów do uprzyjemnienia wygl±du twojego IceWM-a.
+Autorzy poszczególnytch motywów:
 - 4Dwm Theme v.2 - Jeremiah Cornelius <jcorneli@rocketmail.com>
 - Absolute_I - Taner Tas <terranigma@pmail.net>
 - The Alien race - Mike Wynn <Mike.Wynn@alien-race.freeserve.co.uk>
