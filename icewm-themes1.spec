@@ -3,6 +3,7 @@ Summary(pl):	Zestaw tematów dla icewm
 Name:		icewm-themes-pack1
 Version:	1.0
 Release:	2
+BuildArch:      noarch
 License:	GPL (?)
 Group:		Themes
 Group(de):	Themen
