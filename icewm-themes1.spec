@@ -1,5 +1,5 @@
 Summary:	Pack of themes for IceWM
-Summary(pl.UTF-8):   Zestaw motywów dla IceWM-a
+Summary(pl.UTF-8):	Zestaw motywów dla IceWM-a
 Name:		icewm-themes1
 Version:	1.0
 Release:	2
